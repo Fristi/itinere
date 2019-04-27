@@ -6,6 +6,6 @@ docs: true
 collections:
   tut:
     output: true
-version: 0.2.1+8-93f4e0dc
+version: 0.2.1+10-777a55a7
 org: net.vectos
 markdown: kramdown
